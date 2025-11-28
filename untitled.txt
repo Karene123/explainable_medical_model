@@ -1,0 +1,4 @@
+# Ignore real data
+data/
+*.csv
+

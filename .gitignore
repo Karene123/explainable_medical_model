@@ -1,0 +1,6 @@
+# Ignore real data
+data/
+*.csv
+
+# Ignore jupyter
+.ipynb_checkpoints/
